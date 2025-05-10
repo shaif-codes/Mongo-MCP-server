@@ -1,4 +1,4 @@
-# MongoDB Tools Project
+# MongoDB MCP Server
 
 This project provides utility tools to interact with MongoDB, including listing collections and inspecting schema details.
 
