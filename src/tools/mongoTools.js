@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import {contentResponse} from "../utils/responseFromat.js"
+import {contentResponse} from "../utils/responseFormate.js"
 
 export const listCollections = async () => {
   const db = mongoose.connection.db;
